@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "Tskd(@(∆",
+    "typescript.tsserver.enableTracing": true,
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "typescript.tsserver.log": "terse"
+}
